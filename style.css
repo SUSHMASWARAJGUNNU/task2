@@ -1,0 +1,32 @@
+body {
+    margin-left: 30%;
+    margin-right: 40%;
+    font-size: 12px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    opacity: 1;
+   }
+   
+.container1,.container2,.container3,.container4,.container5{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 10px;
+    background-color: rgb(231, 224, 224);
+    box-shadow: 2px;
+
+   }
+   img{
+width: 100%;
+height: 100%;
+display: flex;
+justify-content: center;
+text-align: center;
+
+
+   }
+.data{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+   }
